@@ -186,3 +186,34 @@ h6 {
     opacity: 1;
   }
 }
+
+
+.register {
+  background-color:  rgb(70, 168, 157); /* Green background */
+  border: none;
+  color: white; /* White text */
+  padding: 15px 32px; /* Padding */
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 8px; /* Rounded corners */
+  cursor: pointer;
+  transition-duration: 0.4s; /* Smooth transition */
+
+  
+}
+
+
+.register:hover {
+  background-color: rgb(63, 208, 191); /* Darker green on hover */
+}
+
+#my-submit-btn{
+  transition-duration: 0.4s; 
+}
+
+#my-submit-btn:hover{
+    background-color:rgb(55, 141, 131); /* Darker green on hover and click */
+}
+

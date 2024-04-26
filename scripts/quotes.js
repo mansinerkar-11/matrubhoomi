@@ -1,6 +1,3 @@
-// var quotes = [
-//     "\" My cat's name is Lzzy \" <br> - God Emperor NIK",
-// ];
 
 
 
@@ -27,12 +24,6 @@ var quotes = [
     "\" Water, the precious liquid of life \" <br> - Lailah Gifty Akita",
 
 ];
-
-
-
-
-
-
 
 var h1Element = document.getElementById("quotes");
 
